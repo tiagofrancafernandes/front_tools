@@ -1,0 +1,1 @@
+alias gitstatus='git status'
